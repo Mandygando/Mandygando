@@ -1,4 +1,6 @@
 ## Oii! Eu sou a Amanda Vitória
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amanda-vitória)](https://www.linkedin.com/in/amanda-vitória/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:amandavic7576@gmail.com)](mailto:amandavic7576@gmail.com)
 - 🌱 Estudante de Análise e Desenvolvimento de Sistemas.
 
 <div>
